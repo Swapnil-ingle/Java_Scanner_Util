@@ -19,7 +19,7 @@ I've included the JAR file in the _**Java_Scanner_Util/build/libs/**_ directory.
 > `javac -classpath Java_Scanner_Util/build/libs/sc-util-1.0.0.jar com/example/Foo.java`
 
 4. Add the 'sc-util-1.0.0.jar' to your project in Eclipse.
-> ![alt text](https://github.com/Swapnil-ingle/Java_Scanner_Util/docs/img/Add_Ext_Jar_Eclipse.png "Add External JAR to Eclipse")
+> ![alt text](https://raw.githubusercontent.com/Swapnil-ingle/Java_Scanner_Util/master/docs/img/Add_Ext_Jar_Eclipse.png "Add External JAR to Eclipse")
 
 ## Building the project.
 
