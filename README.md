@@ -4,7 +4,7 @@
 
 Often times while coding, mostly competitive-coding, developers have to manually write the scanning logic to take input from the end user or from an automated test-case. 
 
-This is redundant, as 80% of the such competetive puzzles uses a similar type of input fetching and parsing. The motivation of this Wrapper utility is to alleviates the users from writing their own logic to read input and convert them into workable List, Arrays, Strings, etc and instead focus on the real business logic and reducing time/space complexity and let the utility class handle the peripheral scanning and converting.
+This is redundant code, as 80% of the leet codes share a similar type of input fetching and parsing. This can be delegated to a util class. The motivation behind this wrapper utility is to alleviate the users from (re)writing their own logic to read input and convert input into workable List, Arrays, Strings, etc and instead focus on the real business logic and reducing time/space complexity and let the utility class handle the peripheral scanning and converting.
 
 
 ## Adding this as a dependency to your project.
